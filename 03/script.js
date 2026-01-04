@@ -7,3 +7,8 @@ else{
 }
 
 //Ternary Operator
+
+age >=18 ? console.log("you can vote.") : console.log("you cant vote")
+
+let result = age>=18?"Yes" : "No"
+console.log(result)
