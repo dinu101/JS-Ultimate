@@ -5,3 +5,5 @@ if(age>=18){
 else{
     console.log("you can't vote")
 }
+
+//Ternary Operator
